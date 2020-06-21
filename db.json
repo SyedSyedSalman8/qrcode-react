@@ -1,7 +1,8 @@
 {
   "auth": [
     { "id": 1, "username": "salman", "password": "123456" },
-    { "id": 2, "username": "saad", "password": "12345" }
+    { "id": 2, "username": "saad", "password": "12345" },
+    { "id": 3, "username": "ahmed", "password": "123" }
   ],
   "rewardPoints": [
     { "id": 1, "points": 5, "authId": 1 },
