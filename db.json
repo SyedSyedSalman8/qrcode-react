@@ -1,8 +1,8 @@
 {
   "auth": [
-    { "id": 1, "username": "salman", "password": "123456" },
-    { "id": 2, "username": "saad", "password": "12345" },
-    { "id": 3, "username": "ahmed", "password": "123" }
+    { "id": 1, "username": "salman", "password": "123456", "name": "salman", "email": "salman@123.co", "mobile": "12345", "age": 22 },
+    { "id": 2, "username": "saad", "password": "12345", "name": "saad", "email": "saad@123.co", "mobile": "123456", "age": 25  },
+    { "id": 3, "username": "ahmed", "password": "123", "name": "ahmed", "email": "ahmed@123.co", "mobile": "1234", "age": 20 }
   ],
   "rewardPoints": [
     { "id": 1, "points": 5, "authId": 1 },
